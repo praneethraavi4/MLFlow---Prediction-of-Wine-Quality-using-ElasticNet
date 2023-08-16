@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/e3accad255324fa09b26a2c7362a79ea/artifacts
+end_time: 1692216284180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3accad255324fa09b26a2c7362a79ea
+run_name: skittish-worm-54
+run_uuid: e3accad255324fa09b26a2c7362a79ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216281471
+status: 3
+tags: []
+user_id: saipr

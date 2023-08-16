@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/9af09567a273420bb27dbc2fc6196edf/artifacts
+end_time: 1692216353650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9af09567a273420bb27dbc2fc6196edf
+run_name: carefree-snail-229
+run_uuid: 9af09567a273420bb27dbc2fc6196edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216350792
+status: 3
+tags: []
+user_id: saipr

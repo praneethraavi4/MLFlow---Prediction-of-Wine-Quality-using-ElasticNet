@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/ba6e376014d84f09ba0aea9812236021/artifacts
+end_time: 1692216370760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba6e376014d84f09ba0aea9812236021
+run_name: unruly-cub-402
+run_uuid: ba6e376014d84f09ba0aea9812236021
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216366496
+status: 3
+tags: []
+user_id: saipr

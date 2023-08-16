@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/ff529c5337cf4d028e990543298c48e4/artifacts
+end_time: 1692216249673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff529c5337cf4d028e990543298c48e4
+run_name: respected-carp-128
+run_uuid: ff529c5337cf4d028e990543298c48e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216246136
+status: 3
+tags: []
+user_id: saipr

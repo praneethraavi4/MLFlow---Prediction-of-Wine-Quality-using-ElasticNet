@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/856d1a5efeea4c87afb780de596f4a64/artifacts
+end_time: 1692216310330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 856d1a5efeea4c87afb780de596f4a64
+run_name: invincible-moth-895
+run_uuid: 856d1a5efeea4c87afb780de596f4a64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216307506
+status: 3
+tags: []
+user_id: saipr

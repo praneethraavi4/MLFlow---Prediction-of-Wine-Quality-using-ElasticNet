@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/53e90ac78eb8485eaa510dd2a3bdd752/artifacts
+end_time: 1692216344549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53e90ac78eb8485eaa510dd2a3bdd752
+run_name: resilient-mouse-99
+run_uuid: 53e90ac78eb8485eaa510dd2a3bdd752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216341823
+status: 3
+tags: []
+user_id: saipr

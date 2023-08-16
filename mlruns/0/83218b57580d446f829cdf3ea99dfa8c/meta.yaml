@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/83218b57580d446f829cdf3ea99dfa8c/artifacts
+end_time: 1692216290785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83218b57580d446f829cdf3ea99dfa8c
+run_name: agreeable-horse-470
+run_uuid: 83218b57580d446f829cdf3ea99dfa8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216287706
+status: 3
+tags: []
+user_id: saipr

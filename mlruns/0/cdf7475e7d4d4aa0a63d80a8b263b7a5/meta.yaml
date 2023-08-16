@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/cdf7475e7d4d4aa0a63d80a8b263b7a5/artifacts
+end_time: 1692216317624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdf7475e7d4d4aa0a63d80a8b263b7a5
+run_name: illustrious-gnu-962
+run_uuid: cdf7475e7d4d4aa0a63d80a8b263b7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216314085
+status: 3
+tags: []
+user_id: saipr

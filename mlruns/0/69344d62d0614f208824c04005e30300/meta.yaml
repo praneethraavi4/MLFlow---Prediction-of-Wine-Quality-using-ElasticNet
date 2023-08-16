@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/69344d62d0614f208824c04005e30300/artifacts
+end_time: 1692216327316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69344d62d0614f208824c04005e30300
+run_name: chill-robin-861
+run_uuid: 69344d62d0614f208824c04005e30300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216322535
+status: 3
+tags: []
+user_id: saipr

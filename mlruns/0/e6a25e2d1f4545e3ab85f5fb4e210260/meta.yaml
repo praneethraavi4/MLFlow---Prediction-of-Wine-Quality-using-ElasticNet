@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/e6a25e2d1f4545e3ab85f5fb4e210260/artifacts
+end_time: 1692216297409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6a25e2d1f4545e3ab85f5fb4e210260
+run_name: abrasive-toad-690
+run_uuid: e6a25e2d1f4545e3ab85f5fb4e210260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216294518
+status: 3
+tags: []
+user_id: saipr

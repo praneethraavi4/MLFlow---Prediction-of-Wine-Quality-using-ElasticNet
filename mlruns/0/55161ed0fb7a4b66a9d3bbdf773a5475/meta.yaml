@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/55161ed0fb7a4b66a9d3bbdf773a5475/artifacts
+end_time: 1692216258245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55161ed0fb7a4b66a9d3bbdf773a5475
+run_name: capricious-dog-6
+run_uuid: 55161ed0fb7a4b66a9d3bbdf773a5475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216254824
+status: 3
+tags: []
+user_id: saipr

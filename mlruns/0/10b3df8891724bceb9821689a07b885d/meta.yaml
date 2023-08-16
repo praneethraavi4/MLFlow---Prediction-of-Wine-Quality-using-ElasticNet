@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/10b3df8891724bceb9821689a07b885d/artifacts
+end_time: 1692208274596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10b3df8891724bceb9821689a07b885d
+run_name: suave-auk-503
+run_uuid: 10b3df8891724bceb9821689a07b885d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692208270134
+status: 3
+tags: []
+user_id: saipr

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/9f44cc9d4a0b4b3db6b6e6f6c669e091/artifacts
+end_time: 1692216336832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f44cc9d4a0b4b3db6b6e6f6c669e091
+run_name: adventurous-bass-928
+run_uuid: 9f44cc9d4a0b4b3db6b6e6f6c669e091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216332713
+status: 3
+tags: []
+user_id: saipr

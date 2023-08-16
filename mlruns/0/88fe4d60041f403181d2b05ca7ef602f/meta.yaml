@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/88fe4d60041f403181d2b05ca7ef602f/artifacts
+end_time: 1692216265029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88fe4d60041f403181d2b05ca7ef602f
+run_name: grandiose-sheep-421
+run_uuid: 88fe4d60041f403181d2b05ca7ef602f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216262072
+status: 3
+tags: []
+user_id: saipr

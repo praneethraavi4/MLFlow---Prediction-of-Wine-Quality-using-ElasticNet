@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/552c3ec35e6b471a8b98af3c2e6a376a/artifacts
+end_time: 1692207853150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 552c3ec35e6b471a8b98af3c2e6a376a
+run_name: adventurous-croc-181
+run_uuid: 552c3ec35e6b471a8b98af3c2e6a376a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692207847941
+status: 3
+tags: []
+user_id: saipr

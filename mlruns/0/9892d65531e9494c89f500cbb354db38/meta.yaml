@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/9892d65531e9494c89f500cbb354db38/artifacts
+end_time: 1692216303995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9892d65531e9494c89f500cbb354db38
+run_name: selective-kit-555
+run_uuid: 9892d65531e9494c89f500cbb354db38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216301110
+status: 3
+tags: []
+user_id: saipr

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/de32dfc2c6da43579480d71f2f921767/artifacts
+end_time: 1692216387546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de32dfc2c6da43579480d71f2f921767
+run_name: unique-gnat-674
+run_uuid: de32dfc2c6da43579480d71f2f921767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216384529
+status: 3
+tags: []
+user_id: saipr

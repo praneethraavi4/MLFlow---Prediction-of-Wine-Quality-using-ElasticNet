@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/31430e135e4b44a3b742e97a28180d06/artifacts
+end_time: 1692207538099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31430e135e4b44a3b742e97a28180d06
+run_name: glamorous-sponge-328
+run_uuid: 31430e135e4b44a3b742e97a28180d06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692207537959
+status: 3
+tags: []
+user_id: saipr

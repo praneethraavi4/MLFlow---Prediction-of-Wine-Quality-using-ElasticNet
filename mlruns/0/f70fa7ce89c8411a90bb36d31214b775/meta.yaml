@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/f70fa7ce89c8411a90bb36d31214b775/artifacts
+end_time: 1692207062879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f70fa7ce89c8411a90bb36d31214b775
+run_name: orderly-conch-838
+run_uuid: f70fa7ce89c8411a90bb36d31214b775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692207062681
+status: 3
+tags: []
+user_id: saipr

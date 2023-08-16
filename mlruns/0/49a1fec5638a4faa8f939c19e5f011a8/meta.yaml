@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/49a1fec5638a4faa8f939c19e5f011a8/artifacts
+end_time: 1692208224461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49a1fec5638a4faa8f939c19e5f011a8
+run_name: efficient-roo-735
+run_uuid: 49a1fec5638a4faa8f939c19e5f011a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692208219851
+status: 3
+tags: []
+user_id: saipr

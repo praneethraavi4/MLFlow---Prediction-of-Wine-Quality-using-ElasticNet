@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/ad535f0d15e6409da5cd6f78e09d1c95/artifacts
+end_time: 1692207891462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad535f0d15e6409da5cd6f78e09d1c95
+run_name: colorful-turtle-670
+run_uuid: ad535f0d15e6409da5cd6f78e09d1c95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692207887203
+status: 3
+tags: []
+user_id: saipr

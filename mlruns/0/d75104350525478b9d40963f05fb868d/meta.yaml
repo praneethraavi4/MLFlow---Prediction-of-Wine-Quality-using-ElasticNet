@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/d75104350525478b9d40963f05fb868d/artifacts
+end_time: 1692207105840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d75104350525478b9d40963f05fb868d
+run_name: righteous-slug-336
+run_uuid: d75104350525478b9d40963f05fb868d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692207105405
+status: 3
+tags: []
+user_id: saipr

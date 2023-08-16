@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow_project/mlruns/0/9155cc47a2294469877974c8864e7fba/artifacts
+end_time: 1692216413345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9155cc47a2294469877974c8864e7fba
+run_name: bemused-roo-933
+run_uuid: 9155cc47a2294469877974c8864e7fba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692216409570
+status: 3
+tags: []
+user_id: saipr
